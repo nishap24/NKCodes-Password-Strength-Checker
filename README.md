@@ -15,7 +15,7 @@ This is a password strength checker implemented using HTML, CSS, and JavaScript.
 
 Live Demo:
 
-   
+  https://nishap24.github.io/NKCodes-Password-Strength-Checker/ 
 ## Getting Started
 
 Getting Started with the Password Strength Checker:
